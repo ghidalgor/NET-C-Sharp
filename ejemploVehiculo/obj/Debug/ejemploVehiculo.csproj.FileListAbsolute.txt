@@ -1,6 +1,0 @@
-D:\visual_studio\laboratorio\POO\Herencia\vehiculosHerencia\ejemploVehiculo\ejemploVehiculo\bin\Debug\ejemploVehiculo.exe.config
-D:\visual_studio\laboratorio\POO\Herencia\vehiculosHerencia\ejemploVehiculo\ejemploVehiculo\bin\Debug\ejemploVehiculo.exe
-D:\visual_studio\laboratorio\POO\Herencia\vehiculosHerencia\ejemploVehiculo\ejemploVehiculo\bin\Debug\ejemploVehiculo.pdb
-D:\visual_studio\laboratorio\POO\Herencia\vehiculosHerencia\ejemploVehiculo\ejemploVehiculo\obj\Debug\ejemploVehiculo.csprojResolveAssemblyReference.cache
-D:\visual_studio\laboratorio\POO\Herencia\vehiculosHerencia\ejemploVehiculo\ejemploVehiculo\obj\Debug\ejemploVehiculo.exe
-D:\visual_studio\laboratorio\POO\Herencia\vehiculosHerencia\ejemploVehiculo\ejemploVehiculo\obj\Debug\ejemploVehiculo.pdb
